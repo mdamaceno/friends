@@ -1,6 +1,6 @@
 # Friends
 
-**TODO: Add description**
+From Elixir tutorial with some of my ideas.
 
 ## Installation
 
